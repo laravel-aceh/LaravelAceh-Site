@@ -4,10 +4,12 @@
 
 # Site
 title: Laravel Aceh
-subtitle:
-description:
-author: Yudi Andela
-language: ID
+subtitle: Belajar laravel dari dokumentasi bahasa indonesia
+description: Dokumentasi dan Tutorial Laravel Bahasa Indonesia
+keywords: Laravel Bahasa Indonesia, Blog Laravel Bahasa Indonesia
+author: Yudi Andela, (yudhi.andhela@gmail.com)
+image: http://laravel-aceh.github.io/images/logo@2x.png
+language: id-ID
 timezone: Asia/Jakarta
 
 # URL
@@ -24,6 +26,14 @@ theme_config:
     Facebook:
     GitHub: https://github.com/laravel-aceh
     Rss: /atom.xml
+
+# Social Accounts
+twitter:
+rss: /atom.xml
+weibo:
+instagram:
+github: https://github.com/laravel-aceh/LaravelAceh-Site
+facebook:
 
 # Directory
 source_dir: source
