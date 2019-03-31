@@ -96,4 +96,4 @@ theme: anatole
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:laravel-aceh/laravel-aceh.github.io.git
+  repo: https://github.com/laravel-aceh/laravel-aceh.github.io.git
