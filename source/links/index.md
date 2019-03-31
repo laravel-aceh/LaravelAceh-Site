@@ -9,7 +9,7 @@ image: http://laravel-aceh.github.io/images/logo@2x.png
 
 #### Daftar Link Rekomendasi
 * [Laravel](http://laravel.com/)
-* [Laravel Indonesia](https://laravel.we.id/)
+* [Laravel Indonesia](https://www.laravel.web.id/)
 * [Laracast](http://laracasts.com/)
 
 #### Channel Youtube
