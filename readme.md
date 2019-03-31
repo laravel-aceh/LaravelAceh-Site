@@ -9,7 +9,6 @@ Then, open your terminal (or Git Bash in Windows) and run the following commands
 git clone https://github.com/laravel-aceh/LaravelAceh-Site.git
 cd LaravelAceh-Site
 npm install
-git clone https://github.com/Ben02/hexo-theme-Anatole.git themes/hexo-theme-anatole
 ```
 
 # Start Server

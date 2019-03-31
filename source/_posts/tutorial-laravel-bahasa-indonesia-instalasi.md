@@ -1,7 +1,7 @@
 ---
 title: TUTORIAL LARAVEL BAHASA INDONESIA - INSTALASI
 date: 2019-03-30 11:22:52
-tags:
+tags: Dokumentasi
 description: Belajar instalasi laravel bahasa indonesia
 keywords: laravel-dasar, tutorial-laravel-bahasa-indonesia, laravel-aceh
 image: http://laravel-aceh.github.io/images/logo@2x.png
