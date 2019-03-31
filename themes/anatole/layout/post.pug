@@ -15,13 +15,13 @@ block content
     +make_post(page, true)
     .share.animated.fadeInDown
       .facebook
-        a.fab.fa-facebook(href="https://www.facebook.com/sharer/sharer.php?u=" + config.url + "/" + page.path, data-js="facebook-share", ref="nofollow", target="_blank")
+        a.fab.fa-facebook(href="/share-facebook", data-js="facebook-share", ref="nofollow", target="_blank")
       .twitter
-        a.fab.fa-twitter(href=url_for("http://twitter.com/home?status=" + config.url + "/" + page.path), data-js="twitter-share")
+        a.fab.fa-twitter(href="/share-twitter", data-js="twitter-share")
       .whatsapp
         a.fab.fa-whatsapp(href="https://api.whatsapp.com/send?text=" + config.title + " " + page.title + " " + config.url + "/" + page.path, data-js="whatsapp-share")
       .telegram
-        a.fab.fa-telegram-plane(href="https://telegram.me/share/url?url=" + config.title + " " + page.title + " " + config.url + "/" + page.path, data-js="telegram-share")
+        a.fab.fa-telegram-plane(href="https://telegram.me/share/url?url=" + config.title + " . " + page.title + " " + config.url + "/" + page.path, data-js="telegram-share")
     - var prev = page.prev ? page.prev.path : false;
     - var next = page.next ? page.next.path : false;
     .pagination
