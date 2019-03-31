@@ -7,10 +7,6 @@ keywords: laravel-dasar, tutorial-laravel-bahasa-indonesia, laravel-aceh
 image: http://laravel-aceh.github.io/images/logo@2x.png
 ---
 
-Bismillahirrahmanirrahim
-
-Assalamu'alaikum warahmatullahi wabarakatuh
-
 Framework Laravel memiliki beberapa persyaratan sistem. Semua persyaratan ini dipenuhi oleh mesin virtual yang disebut Laravel Homestead, jadi sangat disarankan agar anda menggunakan Homestead sebagai lingkungan pengembangan Laravel lokal anda.
 
 Namun, jika anda tidak menggunakan Homestead, anda harus memastikan server anda memenuhi persyaratan berikut:
