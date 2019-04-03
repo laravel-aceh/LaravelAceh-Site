@@ -4,6 +4,8 @@ meta(name="author", content= config.author)
 title
     block site_title
         = config.title
+
+meta(name="robots" content="noindex,nofollow")
 block description
     meta(name="description", content= config.description ? config.description : 'A Blog Powered By Hexo')
 
@@ -12,7 +14,11 @@ if page.keywords
 else
     meta(name="keywords" content= config.keywords)
 
-meta(property="og:title" content= config.title)
+if page.title
+    meta(property="og:title" content= page.title)
+else
+    meta(property="og:title" content= config.title)
+
 meta(property="og:type" content="website")
 
 if page.permalink
@@ -25,7 +31,10 @@ if page.image
 else
     meta(property="og:image" content= config.image)
 
-meta(property="og:description" content= config.description)
+if page.description
+    meta(property="og:description" content= page.description)
+else
+    meta(property="og:description" content= config.description)
 
 meta(content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",name="viewport")
 meta(content="yes",name="apple-mobile-web-app-capable")

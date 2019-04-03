@@ -3,7 +3,7 @@ title: KONFIGURASI WEB SERVER
 date: 2019-03-31 11:45:34
 tags: Dokumentasi
 description: Konfigurasi web server untuk keperluan Development Laravel
-keywords: laravel-dasar, tutorial-laravel-bahasa-indonesia, laravel-aceh
+keywords: konfigurasi-web-server-laravel, tutorial-konfigurasi-web-server-laravel-bahasa-indonesia, laravel-aceh
 image: http://laravel-aceh.github.io/images/logo@2x.png
 ---
 

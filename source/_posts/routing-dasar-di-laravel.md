@@ -2,8 +2,8 @@
 title: ROUTING DASAR DI LARAVEL
 date: 2019-04-03 10:52:38
 tags: Dokumentasi
-description: Konfigurasi web server untuk keperluan Development Laravel
-keywords: laravel-dasar, tutorial-laravel-bahasa-indonesia, laravel-aceh
+description: Routing Dasar yang di perlukan di laravel
+keywords: routing-laravel-dasar, tutorial-routing-laravel-bahasa-indonesia, laravel-aceh
 image: http://laravel-aceh.github.io/images/logo@2x.png
 ---
 
