@@ -7,11 +7,20 @@ keywords: laravel-dasar, tutorial-laravel-bahasa-indonesia, laravel-aceh
 image: http://laravel-aceh.github.io/images/logo@2x.png
 ---
 
-#### Daftar Link Rekomendasi
+## Daftar Link Rekomendasi
+### English
 * [Laravel](http://laravel.com/)
-* [Laravel Indonesia](https://www.laravel.web.id/)
 * [Laracast](http://laracasts.com/)
+### Indonesia
+* [Laravel Indonesia](https://www.laravel.web.id/)
+* [IDLARAVEL](http://id-laravel.com/)
+* [Parsinta](https://parsinta.com/)
 
-#### Channel Youtube
+## Channel Youtube
+### English
+* [Laracast](http://laracasts.com/)
+* [Udemy](https://www.udemy.com/)
+### Indonesia
 * [Kawan Koding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
 * [IDStack](https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg)
+* [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
